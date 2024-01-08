@@ -89,7 +89,7 @@ var countdownTimer = setInterval(function () {
     if (timeLeft <= 0) {
         clearInterval(countdownTimer);
         // Redirect to your channel here
-        window.location.href = "https://www.angelone.in/";
+        window.location.href = "https://angel-one.onelink.me/Wjgr/am3mkj2h";
     }
 }, 1000);
 var circleElements = document.querySelectorAll('.bor1');
@@ -107,5 +107,5 @@ function animateCircles() {
 
 animateCircles();
 function redirectToLink() {
-    window.location.href = "https://www.angelone.in/";
+    window.location.href = "https://angel-one.onelink.me/Wjgr/am3mkj2h";
 }
